@@ -8,6 +8,10 @@ packages = [{include = "data_structures_project"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pytest = "^7.3.0"
+pytest-cov = "^4.0.0"
+coverage = "^7.2.3"
+calc = "^1.0"
 
 
 [build-system]
